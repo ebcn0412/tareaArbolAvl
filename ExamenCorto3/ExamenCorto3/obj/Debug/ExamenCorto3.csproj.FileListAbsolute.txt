@@ -1,0 +1,10 @@
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\obj\Debug\ExamenCorto3.csprojAssemblyReference.cache
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\obj\Debug\ExamenCorto3.Form1.resources
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\obj\Debug\ExamenCorto3.Properties.Resources.resources
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\obj\Debug\ExamenCorto3.csproj.GenerateResource.cache
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\obj\Debug\ExamenCorto3.csproj.CoreCompileInputs.cache
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\bin\Debug\ExamenCorto3.exe.config
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\bin\Debug\ExamenCorto3.exe
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\bin\Debug\ExamenCorto3.pdb
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\obj\Debug\ExamenCorto3.exe
+C:\Users\ebcn0\source\repos\ExamenCorto3\ExamenCorto3\obj\Debug\ExamenCorto3.pdb
